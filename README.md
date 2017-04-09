@@ -8,4 +8,4 @@ Nodemcu+PMS503S+Sht20
 
 全部烧入Nodemcu
 
-init.lua自启动
+init.lua 自启动
